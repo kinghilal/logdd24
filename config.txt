@@ -1,6 +1,6 @@
 token= NTM4NzI5MDM1MzYyOTkyMTQ5.Dy4NXA.bTy7Yx5vgjOZauGsA_CUrMXZnJo
 owner= 405215218453446668 
-prefix= +
-game= البرفكس + | +help
+prefix= ++
+game= البرفكس ++ | ++help
 stayinchannel=true
 songinstatus=false 
